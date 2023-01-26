@@ -1,0 +1,32 @@
+:root {
+  --gray-color: #202024;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #121214;
+  color: #c4c4cc;
+  -webkit-font-smothing: antialiased;
+}
+
+body, input, textarea, button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.header {
+  background-color: #202024;
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  padding: 1.25rem 0;
+}
+.header img {
+  height: 2rem;
+}/*# sourceMappingURL=Header.module.css.map */

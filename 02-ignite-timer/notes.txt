@@ -1,0 +1,8 @@
+//styled-components
+    estilização utilizando conceito css in js
+    
+
+//controlled
+    manter em tempo real o estado da informação.
+//uncontrolled
+    busca a informação somente quando precisa dela.
