@@ -1,5 +1,5 @@
 <div align="left">
-<h1>Trilha Ignite - Fundamentos do ReactJS</h1>
+<h1>Módulo 01 - Fundamentos do ReactJS</h1>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/72825535/212352307-e5e30ade-c78a-428b-8326-d4981c9bb655.gif">
 </p>
@@ -8,11 +8,13 @@
 <h2>Descrição do Projeto</h2>
  <p>Finalizando os Fundamentos do ReactJS na trilha do Ignite da Rocketseat, desenvolvendo esse Feed do qual foi abordado vários conceitos como <strong>componentes, propriedades, hooks, estados, imutabilidade, como é feito estilização no React e no final foi aplicado TypeScript ao projeto</string>. Muito interessante a facilidade que o React trás para o desenvolvimento da aplicação, o fato de se criar componentes dividindo assim o código em várias partes, podendo ser reutilizado em outros componentes se necessário é algo muito interessante e prático.</p>
 
-<h2>Acesso a aplicação</h2>
-<p>
-Clica nesse <a href="https://trilha-ignite-fundamentos-reactjs-ts.vercel.app//" target="_blank"> link.</a><br>
-</p>
-<h3> </h3>
+<a href="https://trilha-ignite-fundamentos-reactjs-ts.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/01-fundamentos-reactjs-ts" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
 
 <h1>Desafio 01 - Praticando os conceitos do ReactJS</h1>
 <p align="left">
@@ -20,7 +22,7 @@ Clica nesse <a href="https://trilha-ignite-fundamentos-reactjs-ts.vercel.app//" 
 </p>
 
 <h3>Descrição do Projeto</h3>
- <p><a href="https://trilha-ignite-reactjs-desafio01.vercel.app/" target="_blank">Desafio</a> da Trilha Ignite da Rocketseat para desenolver uma aplicação de controle de tarefas "to-do list".</p>
+ <p>Desenvolver uma aplicação de controle de tarefas "to-do list".</p>
  <h4>Funcionalidades:</h4>
     - Adicionar nova tarefa<br>
     - Marcar e desmarcar uma tarefa como concluída<br>
@@ -31,9 +33,37 @@ Clica nesse <a href="https://trilha-ignite-fundamentos-reactjs-ts.vercel.app//" 
     - Imutabilidade do estado<br>
     - Listas e chaves no ReactJS<br>
     - Propriedades<br>
-    - Componentização
+    - Componentização<br>
+ 
+ <a href="https://trilha-ignite-reactjs-desafio01.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
 
-<h3>Acesso a aplicação</h3>
-<p>
-Clica nesse <a href="https://trilha-ignite-reactjs-desafio01.vercel.app/" target="_blank"> link.</a><br>
- </p>
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/desafio01" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
+
+<h1>Módulo 02 - Criando SPA</h1>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/72825535/218113909-03bf873d-c074-4d0e-9db5-66dbb42f7003.gif">
+</p>
+
+
+<h2>Descrição do Projeto</h2>
+ <p>Nesse módulo foi construindo uma aplicação SPA utilizando:<br>
+- TypeScript<br>
+- Estilização com Styled-component<br>
+- React router dom: usando os componentes BrowserRouter e Route para criar rotas entre a home e o histórico da aplicação<br>
+- Context: utilizado para que dados fossem acessados por vários componentes em diferentes níveis.<br>
+- Reducers: uma forma de trabalhar com dados mais complexos.<br>
+- Immer: ajudou a trabalhar com a imutabilidade de forma mais simples.<br>
+- Hook form: criação de um formulário menos complicado e mais limpo.<br>
+- Zod: para fazer validação.</p><br>
+
+<a href="https://ignite-timer-lilac.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/02-ignite-timer" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
