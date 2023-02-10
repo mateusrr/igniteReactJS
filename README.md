@@ -34,8 +34,8 @@
     - Listas e chaves no ReactJS<br>
     - Propriedades<br>
     - Componentização<br>
- 
- <a href="https://trilha-ignite-reactjs-desafio01.vercel.app/" target="_blank" rel="nofollow">
+ <br>
+<a href="https://trilha-ignite-reactjs-desafio01.vercel.app/" target="_blank" rel="nofollow">
  <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
 </a>
 
@@ -58,7 +58,7 @@
 - Reducers: uma forma de trabalhar com dados mais complexos.<br>
 - Immer: ajudou a trabalhar com a imutabilidade de forma mais simples.<br>
 - Hook form: criação de um formulário menos complicado e mais limpo.<br>
-- Zod: para fazer validação.</p><br>
+- Zod: para fazer validação.</p>
 
 <a href="https://ignite-timer-lilac.vercel.app/" target="_blank" rel="nofollow">
  <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
