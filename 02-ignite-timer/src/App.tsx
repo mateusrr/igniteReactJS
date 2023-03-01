@@ -9,6 +9,7 @@ export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
       <BrowserRouter>
+        {/* necessário estar por do <Router/> */}
         <CyclesContextProvider>
           <Router />
         </CyclesContextProvider>
