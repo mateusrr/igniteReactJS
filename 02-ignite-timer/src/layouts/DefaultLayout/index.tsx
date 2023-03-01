@@ -7,7 +7,7 @@ export function DefaultLayout() {
     <div>
       <LayoutContainer>
         <Header />
-        <Outlet />
+        <Outlet /> {/* espaco para ser inserido de uma página */}
       </LayoutContainer>
     </div>
   )
