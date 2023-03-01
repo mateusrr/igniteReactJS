@@ -67,3 +67,34 @@
 <a href="https://github.com/mateusrr/igniteReactJS/tree/master/02-ignite-timer" target="_blank" rel="nofollow">
  <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
 </a>
+
+<h1>Desafio 02 - Praticando os conceitos do ReactJS</h1>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/72825535/222239433-ff045784-798d-4530-b991-a4c1ded19be5.gif">
+</p>
+
+<h3>Descrição do Projeto</h3>
+ <p>Aplicação para gerenciar um carrinho de compras de uma cafeteria.</p>
+ <h4>Funcionalidades:</h4>
+    - Listagem de produtos (cafés) disponíveis para compra<br>
+    - Adicionar uma quantidade específicas de itens no carrinho<br>
+    - Aumentar ou remover a quantidade de itens no carrinho<br>
+    - Formulário para o usuário preencher o seu endereço<br>
+    - Exibir o total de itens no carrinho no Header<br>
+    - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor<br>
+ <h4>Conceitos:</h4>
+    - Estados<br>
+    - Imutabilidade do estado<br>
+    - Listas e chaves no ReactJS<br>
+    - Propriedades<br>
+    - Componentização<br>
+    - ContextAPI<br>
+    - LocalStorage<br>
+ <br>
+<a href="https://trilha-ignite-reactjs-desafio02.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/desafio02" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
