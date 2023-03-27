@@ -1,0 +1,22 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "cowboy"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "price",
+    "type": "Text"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Anim adipisicing magna in."
+        }
+      }
+    ]
+  }
+}

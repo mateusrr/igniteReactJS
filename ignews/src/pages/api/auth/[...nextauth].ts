@@ -26,7 +26,7 @@ export default NextAuth({
               q.Exists(
                 q.Match(
                   q.Index('user_by_email'),
-                  q.Casefold(user.email as string),
+                  q.Casefold(user?.email as string),
                 ),
               ),
             ),
@@ -34,7 +34,7 @@ export default NextAuth({
             q.Get(
               q.Match(
                 q.Index('user_by_email'),
-                q.Casefold(user.email as string),
+                q.Casefold(user?.email as string),
               ),
             ),
           ),
