@@ -42,7 +42,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
         process.env.STRIPE_WEBHOOK_SECRET as string,
       )
     } catch (err) {
-      return res.status(400).send(`Webhook Error: ${err.message}`)
+      return res.status(400).send(`Webhook Error: ${onmessage}`)
     }
 
     const type = event.type
