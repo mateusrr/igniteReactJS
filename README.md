@@ -98,3 +98,74 @@
 <a href="https://github.com/mateusrr/igniteReactJS/tree/master/desafio02" target="_blank" rel="nofollow">
  <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
 </a>
+
+ <h1>Módulo 03 - Consumo de API's e performance no ReactJS</h1>
+<p align="left">
+<img src="https://github.com/mateusrr/igniteReactJS/assets/72825535/6fa7a598-1087-4151-abcd-f7e6f1d9bf6c">
+</p>
+
+
+<h2>Descrição do Projeto</h2>
+ <p>Nessa aplicação foi desenvolvido um controle financeiro de entrada e saída, tendo modos de cadastro, busca, filtros, formulário e acessibilidade, tendo como foco o consumo de API's, requisições entre front-end e back-end no ReactJS, performace com funcionalidades, bibliotecas, ferramentas para compreender como que é o fluxo de renderização dos componentes.</p>
+
+<a href="https://trilha-ignite-dt-money.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/desafio03" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
+ 
+ <h1>Desafio 03 - Github blog</h1>
+<p align="left">
+<img src="https://github.com/mateusrr/igniteReactJS/assets/72825535/82c20596-fa07-4130-87b1-23f657d77f35">
+</p>
+
+<h3>Descrição do Projeto</h3>
+ <p>Aplicação que utilizará da API do GitHub para buscar issues de um repositório, dados do seu perfil e exibir elas como um blog</p>
+ <h4>Funcionalidades:</h4>
+- Listagem do seu perfil com imagem, número de seguidores, nome e outras informações disponíveis pela API do GitHub.
+- Listar e filtrar todas as issues do repositório com um pequeno resumo do conteúdo dela.
+- Criar uma página para exibir um post (issue) completo.
+
+ <h4>Conceitos:</h4>
+- Fetch / Axios<br>
+- Roteamento e React Router DOM<br>
+- Formulários<br>
+
+ <br>
+<a href="https://trilha-ignite-reactjs-desafio02.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/desafio02" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
+
+<h1>Fundamentos do Next.js / Back-end no Front-end / Front-end JAMStack</h1>
+<p align="left">
+<img src="https://github.com/mateusrr/igniteReactJS/assets/72825535/3764cb57-8a50-49f4-bf74-16288a7d7a90">
+</p>
+
+
+<h2>Descrição do Projeto</h2>
+ <p>Desenvolvendo aplicação com Next.js, além disso conhecendo possibilidades de ter funções back-end (serverless) sendo executado no front-end e por fim aprofundando sobre uma aplicação front-end quando é conectado a mais um back-end para isso foi abordado o conveito de JAMStack e como conectar o front-end com um CMS.</p>
+
+ <h4>Conceitos:</h4>
+- Next.js<br>
+- Typescript<br>
+- SASS<br>
+- API Stripe<br>
+- API Routes no Next.js<br>
+- FaunaDB<br>
+- JWT<br>
+- CMS usando o Prismic<br>
+ 
+<a href="https://trilha-ignite-ignews.vercel.app/" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106988-55801e08-7593-4655-b9c9-8c5e26195d17.png" style="width:8%;">
+</a>
+
+<a href="https://github.com/mateusrr/igniteReactJS/tree/master/ignews" target="_blank" rel="nofollow">
+ <img src="https://user-images.githubusercontent.com/72825535/218106976-1b6a7ac8-c44c-426b-964e-375730b89371.png" style="width:8%;">
+</a>
+ </div>
