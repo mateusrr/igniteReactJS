@@ -97,7 +97,7 @@ export default function CreateUser() {
                 name="name"
                 label="Nome completo"
                 error={errors.name}
-                {...register}
+                {...register('name')}
               />
               <Input type="email" name="email" label="Email" {...register} />
             </SimpleGrid>
@@ -108,14 +108,14 @@ export default function CreateUser() {
                 name="password"
                 label="Senha"
                 error={errors.password}
-                {...register}
+                {...register('password')}
               />
               <Input
                 type="password"
                 name="password_confirmation"
                 label="Confirmar senha"
                 error={errors.password_confirmation}
-                {...register}
+                {...register('password')}
               />
             </SimpleGrid>
           </VStack>
