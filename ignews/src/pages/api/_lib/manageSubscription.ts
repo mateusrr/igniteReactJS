@@ -22,7 +22,6 @@ export async function saveSubscription(
     status: subscription.status,
     price_id: subscription.items.data[0].price.id,
   }
-
   if (createAction) {
     await fauna.query(
       q.Create(q.Collection('subscriptions'), { data: subscriptionData }),

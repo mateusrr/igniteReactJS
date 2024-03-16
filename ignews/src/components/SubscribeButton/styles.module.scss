@@ -17,3 +17,18 @@
         filter: brightness(0.8);
     }
 }
+
+/* CSS para a animação de mudança de layout */
+.layoutShift {
+    animation: shift 1s forwards;
+  }
+  
+  @keyframes shift {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(30px);
+    }
+  }
+  
