@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 80,
+      "createdAt": "2022-07-20T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "mobile",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-02-23T21:11:25.878Z"
+    },
+    {
+      "id": 4,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 80,
+      "createdAt": "2022-07-20T19:36:44.505Z"
+    },
+    {
+      "description": "Monitor",
+      "price": 800,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-24T14:09:45.111Z",
+      "id": 5
+    },
+    {
+      "description": "Kit teclado e mouse",
+      "price": 200,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-24T14:17:36.418Z",
+      "id": 6
+    },
+    {
+      "description": "Violão",
+      "price": 2000,
+      "category": "Instrumento musical",
+      "type": "outcome",
+      "createdAt": "2023-02-24T14:50:54.356Z",
+      "id": 7
+    },
+    {
+      "description": "Fone de ouvido",
+      "price": 300,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-24T14:53:22.660Z",
+      "id": 8
+    },
+    {
+      "description": "Cabo HDMI",
+      "price": 30,
+      "category": "Cabo",
+      "type": "outcome",
+      "createdAt": "2023-02-24T14:58:32.906Z",
+      "id": 9
+    },
+    {
+      "description": "Notebook",
+      "price": 5000,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-24T15:02:57.780Z",
+      "id": 10
+    },
+    {
+      "description": "Recibo",
+      "price": 2000,
+      "category": "Investimento",
+      "type": "income",
+      "createdAt": "2023-02-24T15:09:38.073Z",
+      "id": 11
+    }
+  ]
+}

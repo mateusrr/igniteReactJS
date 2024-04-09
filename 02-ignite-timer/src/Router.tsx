@@ -3,6 +3,7 @@ import { Home } from './pages/Home'
 import { History } from './pages/History'
 import { DefaultLayout } from './layouts/DefaultLayout'
 
+// Rotas da aplicação.
 export function Router() {
   return (
     <Routes>

@@ -1,0 +1,7 @@
+{
+  "apiEndpoint": "https://matnews.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ],
+  "_latest": "0.7.1"
+}
